@@ -15,7 +15,10 @@ pip install tk
 
 ### User Interface
 
-![Images/user_interface.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/089351cc-1091-419b-a35a-ea7b09444949/Screen_Shot_2022-02-23_at_10.39.29.png)
+
+![image](/HsiaoChen-Lin/TOEFL-Speaking-alarm/blob/main/Images/user_interface.png?raw=true)
+
+
 
 ### Future Work
 
