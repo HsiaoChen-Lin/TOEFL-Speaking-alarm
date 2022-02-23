@@ -15,10 +15,7 @@ pip install tk
 
 ### User Interface
 
-
-![image](/HsiaoChen-Lin/TOEFL-Speaking-alarm/blob/main/Images/user_interface.png?raw=true)
-
-
+![image]<img src="https://github.com/HsiaoChen-Lin/TOEFL-Speaking-alarm/blob/main/Images/user_interface.png?raw=true" width="660" height="549">
 
 ### Future Work
 
